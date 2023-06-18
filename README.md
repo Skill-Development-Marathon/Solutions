@@ -1,6 +1,6 @@
 # Skill Development Marathon
 
-This page repository is used to track solutions published in the [Telegram channel](https://t.me/khamidulla_inoyatov_microblog). 
+This page repository is ued to track solutions published in the [Telegram channel](https://t.me/khamidulla_inoyatov_microblog). 
 
 ## Solutions
 - Day 001
