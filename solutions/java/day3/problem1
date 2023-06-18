@@ -1,0 +1,6 @@
+class Solution {
+    public boolean isSameAfterReversals(int num) {
+    //only thing we need to look at that the number does not end with 0 with the exception of number 0
+        return num==0 || num%10!=0;
+    }
+}
