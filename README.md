@@ -12,4 +12,7 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 003
     - :green_circle: [2119. A Number After a Double Reversal](solutions/005.md)
     - :yellow_circle: [2442. Count Number of Distinct Integers After Reverse Operations](solutions/006.md)
+- Day 004
+    - :green_circle: [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+    - :yellow_circle: # [1641. Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
