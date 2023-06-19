@@ -1,0 +1,14 @@
+class Solution {
+    public int numberOfSteps(int num) {
+        int cnt = 0;
+        while(num != 0){ //work until num is not equal to the 0
+            cnt++; //we need this counter to calculate how many times the while loop worked
+            if(num%2==0){ //if num is even number
+                num /=2;
+            }else{ //if it is odd number
+                num -=1;
+            }
+        }
+        return cnt;
+    }
+}
