@@ -21,3 +21,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 006
     - :green_circle: [13. Roman to Integer](solutions/011.md)
     - :yellow_circle: [12. Integer to Roman](solutions/012.md)
+- Day 007
+    - :green_circle: [2520. Count the Digits That Divide a Number](solutions/013.md)
+    - :yellow_circle: [48. Rotate Image](solutions/014.md)
