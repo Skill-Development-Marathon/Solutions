@@ -24,3 +24,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 007
     - :green_circle: [2520. Count the Digits That Divide a Number](solutions/013.md)
     - :yellow_circle: [48. Rotate Image](solutions/014.md)
+- Day 008
+    - :green_circle: [2652. Sum Multiples](solutions/015.md)
+    - :yellow_circle: [2221. Find Triangular Sum of an Array](solutions/016.md)
