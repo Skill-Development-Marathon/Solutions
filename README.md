@@ -27,3 +27,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 008
     - :green_circle: [2652. Sum Multiples](solutions/015.md)
     - :yellow_circle: [2221. Find Triangular Sum of an Array](solutions/016.md)
+- Day 009
+    - :green_circle: [1108. Defanging an IP Address](solutions/017.md)
+    - :yellow_circle: [535. Encode and Decode TinyURL](solutions/018.md)
