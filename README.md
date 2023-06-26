@@ -30,3 +30,9 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 009
     - :green_circle: [1108. Defanging an IP Address](solutions/017.md)
     - :yellow_circle: [535. Encode and Decode TinyURL](solutions/018.md)
+- Day 010
+    - :green_circle: [2011. Final Value of Variable After Performing Operations](solutions/019.md)
+    - :yellow_circle: [189. Rotate Array](solutions/020.md)
+- Day 011
+    - :green_circle: [1672. Richest Customer Wealth](solutions/021.md)
+    - :yellow_circle: [1476. Subrectangle Queries](solutions/022.md)
