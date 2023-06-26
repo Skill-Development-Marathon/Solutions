@@ -36,3 +36,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 011
     - :green_circle: [1431. Kids With the Greatest Number of Candies](solutions/021.md)
     - :yellow_circle: [2610. Convert an Array Into a 2D Array With Conditions](solutions/022.md)
+- Day 012
+    - :green_circle: [1672. Richest Customer Wealth](solutions/023.md)
+    - :yellow_circle: [1476. Subrectangle Queries](solutions/024.md)
