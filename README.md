@@ -39,3 +39,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 012
     - :green_circle: [1672. Richest Customer Wealth](solutions/023.md)
     - :yellow_circle: [1476. Subrectangle Queries](solutions/024.md)
+- Day 013
+    - :green_circle: [1929. Concatenation of Array](solutions/025.md)
+    - :yellow_circle: [1769. Minimum Number of Operations to Move All Balls to Each Box](solutions/026.md)
