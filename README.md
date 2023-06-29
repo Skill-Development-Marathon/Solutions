@@ -42,3 +42,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 013
     - :green_circle: [1929. Concatenation of Array](solutions/025.md)
     - :yellow_circle: [1769. Minimum Number of Operations to Move All Balls to Each Box](solutions/026.md)
+- Day 014
+    - :green_circle: [2574. Left and Right Sum Differences](solutions/027.md)
+    - :yellow_circle: [2161. Partition Array According to Given Pivot](solutions/028.md)
