@@ -34,5 +34,11 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [2011. Final Value of Variable After Performing Operations](solutions/019.md)
     - :yellow_circle: [189. Rotate Array](solutions/020.md)
 - Day 011
-    - :green_circle: [1672. Richest Customer Wealth](solutions/021.md)
-    - :yellow_circle: [1476. Subrectangle Queries](solutions/022.md)
+    - :green_circle: [1431. Kids With the Greatest Number of Candies](solutions/021.md)
+    - :yellow_circle: [2610. Convert an Array Into a 2D Array With Conditions](solutions/022.md)
+- Day 012
+    - :green_circle: [1672. Richest Customer Wealth](solutions/023.md)
+    - :yellow_circle: [1476. Subrectangle Queries](solutions/024.md)
+- Day 013
+    - :green_circle: [1929. Concatenation of Array](solutions/025.md)
+    - :yellow_circle: [1769. Minimum Number of Operations to Move All Balls to Each Box](solutions/026.md)
