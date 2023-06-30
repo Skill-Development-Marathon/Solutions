@@ -1,5 +1,4 @@
 # Skill Development Marathon
-
 This page repository is used to track solutions published in the [Telegram channel](https://t.me/khamidulla_inoyatov_microblog). 
 
 ## Solutions
@@ -45,3 +44,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 014
     - :green_circle: [2574. Left and Right Sum Differences](solutions/027.md)
     - :yellow_circle: [2161. Partition Array According to Given Pivot](solutions/028.md)
+- Day 015
+    - :green_circle: [2114. Maximum Number of Words Found in Sentences](solutions/029.md)
+    - :yellow_circle: [2433. Find The Original Array of Prefix Xor](solutions/030.md)
