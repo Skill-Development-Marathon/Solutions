@@ -1,5 +1,4 @@
 # Skill Development Marathon
-
 This page repository is used to track solutions published in the [Telegram channel](https://t.me/khamidulla_inoyatov_microblog). 
 
 ## Solutions
@@ -27,3 +26,24 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 008
     - :green_circle: [2652. Sum Multiples](solutions/015.md)
     - :yellow_circle: [2221. Find Triangular Sum of an Array](solutions/016.md)
+- Day 009
+    - :green_circle: [1108. Defanging an IP Address](solutions/017.md)
+    - :yellow_circle: [535. Encode and Decode TinyURL](solutions/018.md)
+- Day 010
+    - :green_circle: [2011. Final Value of Variable After Performing Operations](solutions/019.md)
+    - :yellow_circle: [189. Rotate Array](solutions/020.md)
+- Day 011
+    - :green_circle: [1431. Kids With the Greatest Number of Candies](solutions/021.md)
+    - :yellow_circle: [2610. Convert an Array Into a 2D Array With Conditions](solutions/022.md)
+- Day 012
+    - :green_circle: [1672. Richest Customer Wealth](solutions/023.md)
+    - :yellow_circle: [1476. Subrectangle Queries](solutions/024.md)
+- Day 013
+    - :green_circle: [1929. Concatenation of Array](solutions/025.md)
+    - :yellow_circle: [1769. Minimum Number of Operations to Move All Balls to Each Box](solutions/026.md)
+- Day 014
+    - :green_circle: [2574. Left and Right Sum Differences](solutions/027.md)
+    - :yellow_circle: [2161. Partition Array According to Given Pivot](solutions/028.md)
+- Day 015
+    - :green_circle: [2114. Maximum Number of Words Found in Sentences](solutions/029.md)
+    - :yellow_circle: [2433. Find The Original Array of Prefix Xor](solutions/030.md)
