@@ -50,3 +50,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 016
     - :green_circle: [1486. XOR Operation in an Array](solutions/030.md)
     - :yellow_circle: [2545. Sort the Students by Their Kth Score](solutions/032.md)
+- Day 017
+    - :green_circle: [1528. Shuffle String](solutions/033.md)
+    - :yellow_circle: [1637. Widest Vertical Area Between Two Points Containing No Points](solutions/034.md)
