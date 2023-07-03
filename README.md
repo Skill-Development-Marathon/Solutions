@@ -53,3 +53,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 017
     - :green_circle: [1528. Shuffle String](solutions/033.md)
     - :yellow_circle: [1637. Widest Vertical Area Between Two Points Containing No Points](solutions/034.md)
+- Day 018
+    - :green_circle: [1773. Count Items Matching a Rule](solutions/035.md)
+    - :yellow_circle: [2149. Rearrange Array Elements by Sign](solutions/036.md)
