@@ -56,3 +56,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 018
     - :green_circle: [1773. Count Items Matching a Rule](solutions/035.md)
     - :yellow_circle: [2149. Rearrange Array Elements by Sign](solutions/036.md)
+- Day 019
+    - :green_circle: [1684. Count the Number of Consistent Strings](solutions/037.md)
+    - :yellow_circle: [2482. Difference Between Ones and Zeros in Row and Column](solutions/038.md)
