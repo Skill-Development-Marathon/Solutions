@@ -59,3 +59,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 019
     - :green_circle: [1684. Count the Number of Consistent Strings](solutions/037.md)
     - :yellow_circle: [2482. Difference Between Ones and Zeros in Row and Column](solutions/038.md)
+- Day 020
+    - :green_circle: [1720. Decode XORed Array](solutions/039.md)
+    - :yellow_circle: [2657. Find the Prefix Common Array of Two Arrays](solutions/040.md)
