@@ -62,3 +62,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 020
     - :green_circle: [1720. Decode XORed Array](solutions/039.md)
     - :yellow_circle: [2657. Find the Prefix Common Array of Two Arrays](solutions/040.md)
+- Day 021
+    - :green_circle: [1290. Convert Binary Number in a Linked List to Integer](solutions/041.md)
+    - :yellow_circle: [2181. Merge Nodes in Between Zeros](solutions/042.md)
