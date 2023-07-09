@@ -68,3 +68,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 022
     - :green_circle: [876. Middle of the Linked List](solutions/043.md)
     - :yellow_circle: [1669. Merge In Between Linked Lists](solutions/044.md)
+- Day 023
+    - :green_circle: [21. Merge Two Sorted Lists](solutions/045.md)
+    - :yellow_circle: [382. Linked List Random Node](solutions/046.md)
