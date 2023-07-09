@@ -65,3 +65,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 021
     - :green_circle: [1290. Convert Binary Number in a Linked List to Integer](solutions/041.md)
     - :yellow_circle: [2181. Merge Nodes in Between Zeros](solutions/042.md)
+- Day 022
+    - :green_circle: [876. Middle of the Linked List](solutions/043.md)
+    - :yellow_circle: [1669. Merge In Between Linked Lists](solutions/044.md)
