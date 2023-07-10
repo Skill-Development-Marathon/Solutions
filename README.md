@@ -1,4 +1,4 @@
-[image.png](./solutions/resourses/khamidulla_Skill_Development_Marathon_afda4bea-8d4d-43c8-ab88-f2636c0be2c1.png)
+![image.png](./solutions/resources/khamidulla_Skill_Development_Marathon_afda4bea-8d4d-43c8-ab88-f2636c0be2c1.png)
 
 # Skill Development Marathon
 This page repository is used to track solutions published in the [Telegram channel](https://t.me/khamidulla_inoyatov_microblog). 
