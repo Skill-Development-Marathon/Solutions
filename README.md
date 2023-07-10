@@ -91,3 +91,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 025
     - :green_circle: [160. Intersection of Two Linked Lists](solutions/049.md)
     - :yellow_circle: [2130. Maximum Twin Sum of a Linked List](solutions/050.md)
+- Day 026
+    - :green_circle: [234. Palindrome Linked List](solutions/051.md)
+    - :yellow_circle: [1721. Swapping Nodes in a Linked List](solutions/052.md)
