@@ -4,6 +4,9 @@
 This page repository is used to track solutions published in the [Telegram channel](https://t.me/khamidulla_inoyatov_microblog). 
 
 ## Solutions
+
+### Week 01
+
 - Day 001
     - :green_circle: [2413. Smallest Even Multiple](solutions/001.md)
     - :yellow_circle: [2396. Strictly Palindromic Number](solutions/002.md)
@@ -25,6 +28,9 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 007
     - :green_circle: [2520. Count the Digits That Divide a Number](solutions/013.md)
     - :yellow_circle: [48. Rotate Image](solutions/014.md)
+
+### Week 02
+
 - Day 008
     - :green_circle: [2652. Sum Multiples](solutions/015.md)
     - :yellow_circle: [2221. Find Triangular Sum of an Array](solutions/016.md)
@@ -46,6 +52,9 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 014
     - :green_circle: [2574. Left and Right Sum Differences](solutions/027.md)
     - :yellow_circle: [2161. Partition Array According to Given Pivot](solutions/028.md)
+
+### Week 02
+
 - Day 015
     - :green_circle: [2114. Maximum Number of Words Found in Sentences](solutions/029.md)
     - :yellow_circle: [2433. Find The Original Array of Prefix Xor](solutions/030.md)
@@ -67,9 +76,15 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 021
     - :green_circle: [1290. Convert Binary Number in a Linked List to Integer](solutions/041.md)
     - :yellow_circle: [2181. Merge Nodes in Between Zeros](solutions/042.md)
+
+### Week 03
+
 - Day 022
     - :green_circle: [876. Middle of the Linked List](solutions/043.md)
     - :yellow_circle: [1669. Merge In Between Linked Lists](solutions/044.md)
-- Day 023
+- Day 024
     - :green_circle: [21. Merge Two Sorted Lists](solutions/045.md)
     - :yellow_circle: [382. Linked List Random Node](solutions/046.md)
+- Day 025
+    - :green_circle: [160. Intersection of Two Linked Lists](solutions/047.md)
+    - :yellow_circle: [2130. Maximum Twin Sum of a Linked List](solutions/048.md)
