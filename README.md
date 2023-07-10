@@ -82,9 +82,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 022
     - :green_circle: [876. Middle of the Linked List](solutions/043.md)
     - :yellow_circle: [1669. Merge In Between Linked Lists](solutions/044.md)
+- Day 023
+    - :green_circle: [](solutions/045.md)
+    - :yellow_circle: [](solutions/046.md)
 - Day 024
-    - :green_circle: [21. Merge Two Sorted Lists](solutions/045.md)
-    - :yellow_circle: [382. Linked List Random Node](solutions/046.md)
+    - :green_circle: [21. Merge Two Sorted Lists](solutions/047.md)
+    - :yellow_circle: [382. Linked List Random Node](solutions/048.md)
 - Day 025
-    - :green_circle: [160. Intersection of Two Linked Lists](solutions/047.md)
-    - :yellow_circle: [2130. Maximum Twin Sum of a Linked List](solutions/048.md)
+    - :green_circle: [160. Intersection of Two Linked Lists](solutions/049.md)
+    - :yellow_circle: [2130. Maximum Twin Sum of a Linked List](solutions/050.md)
