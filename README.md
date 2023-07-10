@@ -59,7 +59,7 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [2114. Maximum Number of Words Found in Sentences](solutions/029.md)
     - :yellow_circle: [2433. Find The Original Array of Prefix Xor](solutions/030.md)
 - Day 016
-    - :green_circle: [1486. XOR Operation in an Array](solutions/030.md)
+    - :green_circle: [1486. XOR Operation in an Array](solutions/031.md)
     - :yellow_circle: [2545. Sort the Students by Their Kth Score](solutions/032.md)
 - Day 017
     - :green_circle: [1528. Shuffle String](solutions/033.md)
