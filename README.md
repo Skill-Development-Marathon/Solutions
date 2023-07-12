@@ -94,3 +94,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 026
     - :green_circle: [234. Palindrome Linked List](solutions/051.md)
     - :yellow_circle: [1721. Swapping Nodes in a Linked List](solutions/052.md)
+- Day 027
+    - :green_circle: [83. Remove Duplicates from Sorted List](solutions/053.md)
+    - :yellow_circle: [1472. Design Browser History](solutions/054.md)
