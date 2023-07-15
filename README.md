@@ -97,3 +97,15 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 027
     - :green_circle: [83. Remove Duplicates from Sorted List](solutions/053.md)
     - :yellow_circle: [1472. Design Browser History](solutions/054.md)
+- Day 028
+    - :green_circle: [705. Design HashSet](solutions/055.md)
+    - :yellow_circle: [24. Swap Nodes in Pairs](solutions/056.md)
+
+### Week 04
+
+- Day 029
+    - :green_circle: [706. Design HashMap](solutions/057.md)
+    - :yellow_circle: [1472. Design Browser History](solutions/058.md)
+- Day 030
+    - :green_circle: [141. Linked List Cycle](solutions/059.md)
+    - :yellow_circle: [142. Linked List Cycle II](solutions/060.md)
