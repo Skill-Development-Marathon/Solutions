@@ -53,7 +53,7 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [2574. Left and Right Sum Differences](solutions/027.md)
     - :yellow_circle: [2161. Partition Array According to Given Pivot](solutions/028.md)
 
-### Week 02
+### Week 03
 
 - Day 015
     - :green_circle: [2114. Maximum Number of Words Found in Sentences](solutions/029.md)
@@ -77,7 +77,7 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [1290. Convert Binary Number in a Linked List to Integer](solutions/041.md)
     - :yellow_circle: [2181. Merge Nodes in Between Zeros](solutions/042.md)
 
-### Week 03
+### Week 04
 
 - Day 022
     - :green_circle: [876. Middle of the Linked List](solutions/043.md)
@@ -101,11 +101,11 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [705. Design HashSet](solutions/055.md)
     - :yellow_circle: [24. Swap Nodes in Pairs](solutions/056.md)
 
-### Week 04
+### Week 05
 
 - Day 029
     - :green_circle: [706. Design HashMap](solutions/057.md)
-    - :yellow_circle: [1472. Design Browser History](solutions/058.md)
+    - :yellow_circle: [2326. Spiral Matrix IV](solutions/058.md)
 - Day 030
     - :green_circle: [141. Linked List Cycle](solutions/059.md)
     - :yellow_circle: [142. Linked List Cycle II](solutions/060.md)
