@@ -109,3 +109,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 030
     - :green_circle: [141. Linked List Cycle](solutions/059.md)
     - :yellow_circle: [142. Linked List Cycle II](solutions/060.md)
+- Day 031
+    - :green_circle: [203. Remove Linked List Elements](solutions/061.md)
+    - :yellow_circle: [2487. Remove Nodes From Linked List](solutions/062.md)
