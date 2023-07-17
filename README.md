@@ -112,3 +112,6 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 031
     - :green_circle: [203. Remove Linked List Elements](solutions/061.md)
     - :yellow_circle: [2487. Remove Nodes From Linked List](solutions/062.md)
+- Day 032
+    - :green_circle: [771. Jewels and Stones](solutions/063.md)
+    - :yellow_circle: [2391. Minimum Amount of Time to Collect Garbage](solutions/064.md)
