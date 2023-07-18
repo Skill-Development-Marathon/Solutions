@@ -116,5 +116,5 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [771. Jewels and Stones](solutions/063.md)
     - :yellow_circle: [2391. Minimum Amount of Time to Collect Garbage](solutions/064.md)
 - Day 033
-    - :green_circle: [94. Binary Tree Inorder Traversal](solutions/064.md)
-    - :yellow_circle: [98. Validate Binary Search Tree](solutions/065.md)
+    - :green_circle: [94. Binary Tree Inorder Traversal](solutions/065.md)
+    - :yellow_circle: [98. Validate Binary Search Tree](solutions/066.md)
