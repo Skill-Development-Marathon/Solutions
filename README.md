@@ -131,7 +131,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](solutions/071.md)
 	- :yellow_circle: [](solutions/072.md)
 - Day 037
-	- :green_circle: [](solutions/073.md)
+	- :green_circle: [700. Search in a Binary Search Tree](solutions/073.md)
 	- :yellow_circle: [](solutions/074.md)
 - Day 038
 	- :green_circle: [](solutions/075.md)
