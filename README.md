@@ -137,7 +137,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [617. Merge Two Binary Trees](solutions/075.md)
 	- :yellow_circle: [](solutions/076.md)
 - Day 039
-	- :green_circle: [](solutions/077.md)
+	- :green_circle: [226. Invert Binary Tree](solutions/077.md)
 	- :yellow_circle: [](solutions/078.md)
 - Day 040
 	- :green_circle: [](solutions/079.md)
