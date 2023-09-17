@@ -140,7 +140,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [226. Invert Binary Tree](solutions/077.md)
 	- :yellow_circle: [](solutions/078.md)
 - Day 040
-	- :green_circle: [](solutions/079.md)
+	- :green_circle: [2236. Root Equals Sum of Children](solutions/079.md)
 	- :yellow_circle: [](solutions/080.md)
 - Day 041
 	- :green_circle: [](solutions/081.md)
