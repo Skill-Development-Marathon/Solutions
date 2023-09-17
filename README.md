@@ -143,7 +143,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [2236. Root Equals Sum of Children](solutions/079.md)
 	- :yellow_circle: [](solutions/080.md)
 - Day 041
-	- :green_circle: [](solutions/081.md)
+	- :green_circle: [637. Average of Levels in Binary Tree](solutions/081.md)
 	- :yellow_circle: [](solutions/082.md)
 - Day 042
 	- :green_circle: [](solutions/083.md)
