@@ -119,279 +119,220 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [94. Binary Tree Inorder Traversal](solutions/065.md)
     - :yellow_circle: [98. Validate Binary Search Tree](solutions/066.md)
 - Day 034
-    - :green_circle: [](solutions/067.md)
+    - :green_circle: [144. Binary Tree Preorder Traversal](solutions/067.md)
     - :yellow_circle: [](solutions/068.md)
-- Day 036
-    - :green_circle: [](solutions/067.md)
-    - :yellow_circle: [](solutions/068.md)
-
+- Day 035
+    - :green_circle: [](solutions/069.md)
+    - :yellow_circle: [](solutions/070.md)
 
 ### Week 6
 
+- Day 036
+	- :green_circle: [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](solutions/071.md)
+	- :yellow_circle: [](solutions/072.md)
 - Day 037
 	- :green_circle: [](solutions/073.md)
 	- :yellow_circle: [](solutions/074.md)
-
 - Day 038
 	- :green_circle: [](solutions/075.md)
 	- :yellow_circle: [](solutions/076.md)
-
 - Day 039
 	- :green_circle: [](solutions/077.md)
 	- :yellow_circle: [](solutions/078.md)
-
 - Day 040
 	- :green_circle: [](solutions/079.md)
 	- :yellow_circle: [](solutions/080.md)
-
 - Day 041
 	- :green_circle: [](solutions/081.md)
 	- :yellow_circle: [](solutions/082.md)
-
 - Day 042
 	- :green_circle: [](solutions/083.md)
 	- :yellow_circle: [](solutions/084.md)
 
+### Week 7
+
 - Day 043
 	- :green_circle: [](solutions/085.md)
 	- :yellow_circle: [](solutions/086.md)
-
-
-### Week 7
-
 - Day 044
 	- :green_circle: [](solutions/087.md)
 	- :yellow_circle: [](solutions/088.md)
-
 - Day 045
 	- :green_circle: [](solutions/089.md)
 	- :yellow_circle: [](solutions/090.md)
-
 - Day 046
 	- :green_circle: [](solutions/091.md)
 	- :yellow_circle: [](solutions/092.md)
-
 - Day 047
 	- :green_circle: [](solutions/093.md)
 	- :yellow_circle: [](solutions/094.md)
-
 - Day 048
 	- :green_circle: [](solutions/095.md)
 	- :yellow_circle: [](solutions/096.md)
-
 - Day 049
 	- :green_circle: [](solutions/097.md)
 	- :yellow_circle: [](solutions/098.md)
 
+### Week 8
+
 - Day 050
 	- :green_circle: [](solutions/099.md)
 	- :yellow_circle: [](solutions/100.md)
-
-
-### Week 8
-
 - Day 051
 	- :green_circle: [](solutions/101.md)
 	- :yellow_circle: [](solutions/102.md)
-
 - Day 052
 	- :green_circle: [](solutions/103.md)
 	- :yellow_circle: [](solutions/104.md)
-
 - Day 053
 	- :green_circle: [](solutions/105.md)
 	- :yellow_circle: [](solutions/106.md)
-
 - Day 054
 	- :green_circle: [](solutions/107.md)
 	- :yellow_circle: [](solutions/108.md)
-
 - Day 055
 	- :green_circle: [](solutions/109.md)
 	- :yellow_circle: [](solutions/110.md)
-
 - Day 056
 	- :green_circle: [](solutions/111.md)
 	- :yellow_circle: [](solutions/112.md)
-
-- Day 057
-	- :green_circle: [](solutions/113.md)
-	- :yellow_circle: [](solutions/114.md)
-
 
 ### Week 9
 
 - Day 058
 	- :green_circle: [](solutions/115.md)
 	- :yellow_circle: [](solutions/116.md)
-
 - Day 059
 	- :green_circle: [](solutions/117.md)
 	- :yellow_circle: [](solutions/118.md)
-
 - Day 060
 	- :green_circle: [](solutions/119.md)
 	- :yellow_circle: [](solutions/120.md)
-
 - Day 061
 	- :green_circle: [](solutions/121.md)
 	- :yellow_circle: [](solutions/122.md)
-
 - Day 062
 	- :green_circle: [](solutions/123.md)
 	- :yellow_circle: [](solutions/124.md)
-
 - Day 063
 	- :green_circle: [](solutions/125.md)
 	- :yellow_circle: [](solutions/126.md)
-
 - Day 064
 	- :green_circle: [](solutions/127.md)
 	- :yellow_circle: [](solutions/128.md)
-
 
 ### Week 10
 
 - Day 065
 	- :green_circle: [](solutions/129.md)
 	- :yellow_circle: [](solutions/130.md)
-
 - Day 066
 	- :green_circle: [](solutions/131.md)
 	- :yellow_circle: [](solutions/132.md)
-
 - Day 067
 	- :green_circle: [](solutions/133.md)
 	- :yellow_circle: [](solutions/134.md)
-
 - Day 068
 	- :green_circle: [](solutions/135.md)
 	- :yellow_circle: [](solutions/136.md)
-
 - Day 069
 	- :green_circle: [](solutions/137.md)
 	- :yellow_circle: [](solutions/138.md)
-
 - Day 070
 	- :green_circle: [](solutions/139.md)
 	- :yellow_circle: [](solutions/140.md)
-
 - Day 071
 	- :green_circle: [](solutions/141.md)
 	- :yellow_circle: [](solutions/142.md)
-
 
 ### Week 11
 
 - Day 072
 	- :green_circle: [](solutions/143.md)
 	- :yellow_circle: [](solutions/144.md)
-
 - Day 073
 	- :green_circle: [](solutions/145.md)
 	- :yellow_circle: [](solutions/146.md)
-
 - Day 074
 	- :green_circle: [](solutions/147.md)
 	- :yellow_circle: [](solutions/148.md)
-
 - Day 075
 	- :green_circle: [](solutions/149.md)
 	- :yellow_circle: [](solutions/150.md)
-
 - Day 076
 	- :green_circle: [](solutions/151.md)
 	- :yellow_circle: [](solutions/152.md)
-
 - Day 077
 	- :green_circle: [](solutions/153.md)
 	- :yellow_circle: [](solutions/154.md)
-
 - Day 078
 	- :green_circle: [](solutions/155.md)
 	- :yellow_circle: [](solutions/156.md)
-
 
 ### Week 12
 
 - Day 079
 	- :green_circle: [](solutions/157.md)
 	- :yellow_circle: [](solutions/158.md)
-
 - Day 080
 	- :green_circle: [](solutions/159.md)
 	- :yellow_circle: [](solutions/160.md)
-
 - Day 081
 	- :green_circle: [](solutions/161.md)
 	- :yellow_circle: [](solutions/162.md)
-
 - Day 082
 	- :green_circle: [](solutions/163.md)
 	- :yellow_circle: [](solutions/164.md)
-
 - Day 083
 	- :green_circle: [](solutions/165.md)
 	- :yellow_circle: [](solutions/166.md)
-
 - Day 084
 	- :green_circle: [](solutions/167.md)
 	- :yellow_circle: [](solutions/168.md)
-
 - Day 085
 	- :green_circle: [](solutions/169.md)
 	- :yellow_circle: [](solutions/170.md)
-
 
 ### Week 13
 
 - Day 086
 	- :green_circle: [](solutions/171.md)
 	- :yellow_circle: [](solutions/172.md)
-
 - Day 087
 	- :green_circle: [](solutions/173.md)
 	- :yellow_circle: [](solutions/174.md)
-
 - Day 088
 	- :green_circle: [](solutions/175.md)
 	- :yellow_circle: [](solutions/176.md)
-
 - Day 089
 	- :green_circle: [](solutions/177.md)
 	- :yellow_circle: [](solutions/178.md)
-
 - Day 090
 	- :green_circle: [](solutions/179.md)
 	- :yellow_circle: [](solutions/180.md)
-
 - Day 091
 	- :green_circle: [](solutions/181.md)
 	- :yellow_circle: [](solutions/182.md)
-
 - Day 092
 	- :green_circle: [](solutions/183.md)
 	- :yellow_circle: [](solutions/184.md)
-
 
 ### Week 14
 
 - Day 093
 	- :green_circle: [](solutions/185.md)
 	- :yellow_circle: [](solutions/186.md)
-
 - Day 094
 	- :green_circle: [](solutions/187.md)
 	- :yellow_circle: [](solutions/188.md)
-
 - Day 095
 	- :green_circle: [](solutions/189.md)
 	- :yellow_circle: [](solutions/190.md)
-<!--
 - Day 096
 	- :green_circle: [](solutions/191.md)
 	- :yellow_circle: [](solutions/192.md)
 
+<!--
 - Day 097
 	- :green_circle: [](solutions/193.md)
 	- :yellow_circle: [](solutions/194.md)
