@@ -152,7 +152,7 @@ This page repository is used to track solutions published in the [Telegram chann
 ### Week 7
 
 - Day 043
-	- :green_circle: [](solutions/085.md)
+	- :green_circle: [872. Leaf-Similar Trees](solutions/085.md)
 	- :yellow_circle: [](solutions/086.md)
 - Day 044
 	- :green_circle: [](solutions/087.md)
