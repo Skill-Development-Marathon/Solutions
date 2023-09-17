@@ -146,7 +146,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [637. Average of Levels in Binary Tree](solutions/081.md)
 	- :yellow_circle: [](solutions/082.md)
 - Day 042
-	- :green_circle: [](solutions/083.md)
+	- :green_circle: [108. Convert Sorted Array to Binary Search Tree](solutions/083.md)
 	- :yellow_circle: [](solutions/084.md)
 
 ### Week 7
