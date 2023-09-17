@@ -122,7 +122,7 @@ This page repository is used to track solutions published in the [Telegram chann
     - :green_circle: [144. Binary Tree Preorder Traversal](solutions/067.md)
     - :yellow_circle: [](solutions/068.md)
 - Day 035
-    - :green_circle: [](solutions/069.md)
+    - :green_circle: [145. Binary Tree Postorder Traversal](solutions/069.md)
     - :yellow_circle: [](solutions/070.md)
 
 ### Week 6
