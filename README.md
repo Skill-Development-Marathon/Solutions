@@ -158,7 +158,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [606. Construct String from Binary Tree](solutions/087.md)
 	- :yellow_circle: [](solutions/088.md)
 - Day 045
-	- :green_circle: [](solutions/089.md)
+	- :green_circle: [257. Binary Tree Paths](solutions/089.md)
 	- :yellow_circle: [](solutions/090.md)
 - Day 046
 	- :green_circle: [](solutions/091.md)
