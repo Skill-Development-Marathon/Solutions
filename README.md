@@ -164,7 +164,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [653. Two Sum IV - Input is a BST](solutions/091.md)
 	- :yellow_circle: [](solutions/092.md)
 - Day 047
-	- :green_circle: [](solutions/093.md)
+	- :green_circle: [783. Minimum Distance Between BST Nodes](solutions/093.md)
 	- :yellow_circle: [](solutions/094.md)
 - Day 048
 	- :green_circle: [](solutions/095.md)
