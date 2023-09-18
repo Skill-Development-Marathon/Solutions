@@ -155,7 +155,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [872. Leaf-Similar Trees](solutions/085.md)
 	- :yellow_circle: [](solutions/086.md)
 - Day 044
-	- :green_circle: [](solutions/087.md)
+	- :green_circle: [606. Construct String from Binary Tree](solutions/087.md)
 	- :yellow_circle: [](solutions/088.md)
 - Day 045
 	- :green_circle: [](solutions/089.md)
