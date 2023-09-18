@@ -326,393 +326,306 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [](solutions/187.md)
 	- :yellow_circle: [](solutions/188.md)
 - Day 095
-	- :green_circle: [](solutions/189.md)
-	- :yellow_circle: [](solutions/190.md)
+	- :green_circle: [804. Unique Morse Code Words](solutions/189.md)
+	- :yellow_circle: [2079. Watering Plants](solutions/190.md)
+<!--
 - Day 096
 	- :green_circle: [](solutions/191.md)
 	- :yellow_circle: [](solutions/192.md)
-
-<!--
 - Day 097
 	- :green_circle: [](solutions/193.md)
 	- :yellow_circle: [](solutions/194.md)
-
 - Day 098
 	- :green_circle: [](solutions/195.md)
 	- :yellow_circle: [](solutions/196.md)
-
 - Day 099
 	- :green_circle: [](solutions/197.md)
 	- :yellow_circle: [](solutions/198.md)
-
 
 ### Week 15
 
 - Day 100
 	- :green_circle: [](solutions/199.md)
 	- :yellow_circle: [](solutions/200.md)
-
 - Day 101
 	- :green_circle: [](solutions/201.md)
 	- :yellow_circle: [](solutions/202.md)
-
 - Day 102
 	- :green_circle: [](solutions/203.md)
 	- :yellow_circle: [](solutions/204.md)
-
 - Day 103
 	- :green_circle: [](solutions/205.md)
 	- :yellow_circle: [](solutions/206.md)
-
 - Day 104
 	- :green_circle: [](solutions/207.md)
 	- :yellow_circle: [](solutions/208.md)
-
 - Day 105
 	- :green_circle: [](solutions/209.md)
 	- :yellow_circle: [](solutions/210.md)
-
 - Day 106
 	- :green_circle: [](solutions/211.md)
 	- :yellow_circle: [](solutions/212.md)
-
 
 ### Week 16
 
 - Day 107
 	- :green_circle: [](solutions/213.md)
 	- :yellow_circle: [](solutions/214.md)
-
 - Day 108
 	- :green_circle: [](solutions/215.md)
 	- :yellow_circle: [](solutions/216.md)
-
 - Day 109
 	- :green_circle: [](solutions/217.md)
 	- :yellow_circle: [](solutions/218.md)
-
 - Day 110
 	- :green_circle: [](solutions/219.md)
 	- :yellow_circle: [](solutions/220.md)
-
 - Day 111
 	- :green_circle: [](solutions/221.md)
 	- :yellow_circle: [](solutions/222.md)
-
 - Day 112
 	- :green_circle: [](solutions/223.md)
 	- :yellow_circle: [](solutions/224.md)
-
 - Day 113
 	- :green_circle: [](solutions/225.md)
 	- :yellow_circle: [](solutions/226.md)
-
 
 ### Week 17
 
 - Day 114
 	- :green_circle: [](solutions/227.md)
 	- :yellow_circle: [](solutions/228.md)
-
 - Day 115
 	- :green_circle: [](solutions/229.md)
 	- :yellow_circle: [](solutions/230.md)
-
 - Day 116
 	- :green_circle: [](solutions/231.md)
 	- :yellow_circle: [](solutions/232.md)
-
 - Day 117
 	- :green_circle: [](solutions/233.md)
 	- :yellow_circle: [](solutions/234.md)
-
 - Day 118
 	- :green_circle: [](solutions/235.md)
 	- :yellow_circle: [](solutions/236.md)
-
 - Day 119
 	- :green_circle: [](solutions/237.md)
 	- :yellow_circle: [](solutions/238.md)
-
 - Day 120
 	- :green_circle: [](solutions/239.md)
 	- :yellow_circle: [](solutions/240.md)
-
 
 ### Week 18
 
 - Day 121
 	- :green_circle: [](solutions/241.md)
 	- :yellow_circle: [](solutions/242.md)
-
 - Day 122
 	- :green_circle: [](solutions/243.md)
 	- :yellow_circle: [](solutions/244.md)
-
 - Day 123
 	- :green_circle: [](solutions/245.md)
 	- :yellow_circle: [](solutions/246.md)
-
 - Day 124
 	- :green_circle: [](solutions/247.md)
 	- :yellow_circle: [](solutions/248.md)
-
 - Day 125
 	- :green_circle: [](solutions/249.md)
 	- :yellow_circle: [](solutions/250.md)
-
 - Day 126
 	- :green_circle: [](solutions/251.md)
 	- :yellow_circle: [](solutions/252.md)
-
 - Day 127
 	- :green_circle: [](solutions/253.md)
 	- :yellow_circle: [](solutions/254.md)
-
 
 ### Week 19
 
 - Day 128
 	- :green_circle: [](solutions/255.md)
 	- :yellow_circle: [](solutions/256.md)
-
 - Day 129
 	- :green_circle: [](solutions/257.md)
 	- :yellow_circle: [](solutions/258.md)
-
 - Day 130
 	- :green_circle: [](solutions/259.md)
 	- :yellow_circle: [](solutions/260.md)
-
 - Day 131
 	- :green_circle: [](solutions/261.md)
 	- :yellow_circle: [](solutions/262.md)
-
 - Day 132
 	- :green_circle: [](solutions/263.md)
 	- :yellow_circle: [](solutions/264.md)
-
 - Day 133
 	- :green_circle: [](solutions/265.md)
 	- :yellow_circle: [](solutions/266.md)
-
 - Day 134
 	- :green_circle: [](solutions/267.md)
 	- :yellow_circle: [](solutions/268.md)
-
 
 ### Week 20
 
 - Day 135
 	- :green_circle: [](solutions/269.md)
 	- :yellow_circle: [](solutions/270.md)
-
 - Day 136
 	- :green_circle: [](solutions/271.md)
 	- :yellow_circle: [](solutions/272.md)
-
 - Day 137
 	- :green_circle: [](solutions/273.md)
 	- :yellow_circle: [](solutions/274.md)
-
 - Day 138
 	- :green_circle: [](solutions/275.md)
 	- :yellow_circle: [](solutions/276.md)
-
 - Day 139
 	- :green_circle: [](solutions/277.md)
 	- :yellow_circle: [](solutions/278.md)
-
 - Day 140
 	- :green_circle: [](solutions/279.md)
 	- :yellow_circle: [](solutions/280.md)
-
 - Day 141
 	- :green_circle: [](solutions/281.md)
 	- :yellow_circle: [](solutions/282.md)
-
 
 ### Week 21
 
 - Day 142
 	- :green_circle: [](solutions/283.md)
 	- :yellow_circle: [](solutions/284.md)
-
 - Day 143
 	- :green_circle: [](solutions/285.md)
 	- :yellow_circle: [](solutions/286.md)
-
 - Day 144
 	- :green_circle: [](solutions/287.md)
 	- :yellow_circle: [](solutions/288.md)
-
 - Day 145
 	- :green_circle: [](solutions/289.md)
 	- :yellow_circle: [](solutions/290.md)
-
 - Day 146
 	- :green_circle: [](solutions/291.md)
 	- :yellow_circle: [](solutions/292.md)
-
 - Day 147
 	- :green_circle: [](solutions/293.md)
 	- :yellow_circle: [](solutions/294.md)
-
 - Day 148
 	- :green_circle: [](solutions/295.md)
 	- :yellow_circle: [](solutions/296.md)
-
 
 ### Week 22
 
 - Day 149
 	- :green_circle: [](solutions/297.md)
 	- :yellow_circle: [](solutions/298.md)
-
 - Day 150
 	- :green_circle: [](solutions/299.md)
 	- :yellow_circle: [](solutions/300.md)
-
 - Day 151
 	- :green_circle: [](solutions/301.md)
 	- :yellow_circle: [](solutions/302.md)
-
 - Day 152
 	- :green_circle: [](solutions/303.md)
 	- :yellow_circle: [](solutions/304.md)
-
 - Day 153
 	- :green_circle: [](solutions/305.md)
 	- :yellow_circle: [](solutions/306.md)
-
 - Day 154
 	- :green_circle: [](solutions/307.md)
 	- :yellow_circle: [](solutions/308.md)
-
 - Day 155
 	- :green_circle: [](solutions/309.md)
 	- :yellow_circle: [](solutions/310.md)
-
 
 ### Week 23
 
 - Day 156
 	- :green_circle: [](solutions/311.md)
 	- :yellow_circle: [](solutions/312.md)
-
 - Day 157
 	- :green_circle: [](solutions/313.md)
 	- :yellow_circle: [](solutions/314.md)
-
 - Day 158
 	- :green_circle: [](solutions/315.md)
 	- :yellow_circle: [](solutions/316.md)
-
 - Day 159
 	- :green_circle: [](solutions/317.md)
 	- :yellow_circle: [](solutions/318.md)
-
 - Day 160
 	- :green_circle: [](solutions/319.md)
 	- :yellow_circle: [](solutions/320.md)
-
 - Day 161
 	- :green_circle: [](solutions/321.md)
 	- :yellow_circle: [](solutions/322.md)
-
 - Day 162
 	- :green_circle: [](solutions/323.md)
 	- :yellow_circle: [](solutions/324.md)
-
 
 ### Week 24
 
 - Day 163
 	- :green_circle: [](solutions/325.md)
 	- :yellow_circle: [](solutions/326.md)
-
 - Day 164
 	- :green_circle: [](solutions/327.md)
 	- :yellow_circle: [](solutions/328.md)
-
 - Day 165
 	- :green_circle: [](solutions/329.md)
 	- :yellow_circle: [](solutions/330.md)
-
 - Day 166
 	- :green_circle: [](solutions/331.md)
 	- :yellow_circle: [](solutions/332.md)
-
 - Day 167
 	- :green_circle: [](solutions/333.md)
 	- :yellow_circle: [](solutions/334.md)
-
 - Day 168
 	- :green_circle: [](solutions/335.md)
 	- :yellow_circle: [](solutions/336.md)
-
 - Day 169
 	- :green_circle: [](solutions/337.md)
 	- :yellow_circle: [](solutions/338.md)
-
 
 ### Week 25
 
 - Day 170
 	- :green_circle: [](solutions/339.md)
 	- :yellow_circle: [](solutions/340.md)
-
 - Day 171
 	- :green_circle: [](solutions/341.md)
 	- :yellow_circle: [](solutions/342.md)
-
 - Day 172
 	- :green_circle: [](solutions/343.md)
 	- :yellow_circle: [](solutions/344.md)
-
 - Day 173
 	- :green_circle: [](solutions/345.md)
 	- :yellow_circle: [](solutions/346.md)
-
 - Day 174
 	- :green_circle: [](solutions/347.md)
 	- :yellow_circle: [](solutions/348.md)
-
 - Day 175
 	- :green_circle: [](solutions/349.md)
 	- :yellow_circle: [](solutions/350.md)
-
 - Day 176
 	- :green_circle: [](solutions/351.md)
 	- :yellow_circle: [](solutions/352.md)
-
 
 ### Week 26
 
 - Day 177
 	- :green_circle: [](solutions/353.md)
 	- :yellow_circle: [](solutions/354.md)
-
 - Day 178
 	- :green_circle: [](solutions/355.md)
 	- :yellow_circle: [](solutions/356.md)
-
 - Day 179
 	- :green_circle: [](solutions/357.md)
 	- :yellow_circle: [](solutions/358.md)
-
 - Day 180
 	- :green_circle: [](solutions/359.md)
 	- :yellow_circle: [](solutions/360.md)
-
 - Day 181
 	- :green_circle: [](solutions/361.md)
 	- :yellow_circle: [](solutions/362.md)
-
 - Day 182
 	- :green_circle: [](solutions/363.md)
 	- :yellow_circle: [](solutions/364.md)
-
 - Day 183
 	- :green_circle: [](solutions/365.md)
 	- :yellow_circle: [](solutions/366.md)
