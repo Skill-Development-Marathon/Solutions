@@ -199,6 +199,9 @@ This page repository is used to track solutions published in the [Telegram chann
 
 ### Week 9
 
+- Day 057
+	- :green_circle: [](solutions/115.md)
+	- :yellow_circle: [](solutions/116.md)
 - Day 058
 	- :green_circle: [](solutions/115.md)
 	- :yellow_circle: [](solutions/116.md)
@@ -217,12 +220,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 063
 	- :green_circle: [](solutions/125.md)
 	- :yellow_circle: [](solutions/126.md)
-- Day 064
-	- :green_circle: [](solutions/127.md)
-	- :yellow_circle: [](solutions/128.md)
 
 ### Week 10
 
+- Day 064
+	- :green_circle: [](solutions/127.md)
+	- :yellow_circle: [](solutions/128.md)
 - Day 065
 	- :green_circle: [](solutions/129.md)
 	- :yellow_circle: [](solutions/130.md)
@@ -241,12 +244,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 070
 	- :green_circle: [](solutions/139.md)
 	- :yellow_circle: [](solutions/140.md)
-- Day 071
-	- :green_circle: [](solutions/141.md)
-	- :yellow_circle: [](solutions/142.md)
 
 ### Week 11
 
+- Day 071
+	- :green_circle: [](solutions/141.md)
+	- :yellow_circle: [](solutions/142.md)
 - Day 072
 	- :green_circle: [](solutions/143.md)
 	- :yellow_circle: [](solutions/144.md)
@@ -265,12 +268,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 077
 	- :green_circle: [](solutions/153.md)
 	- :yellow_circle: [](solutions/154.md)
-- Day 078
-	- :green_circle: [](solutions/155.md)
-	- :yellow_circle: [](solutions/156.md)
 
 ### Week 12
 
+- Day 078
+	- :green_circle: [](solutions/155.md)
+	- :yellow_circle: [](solutions/156.md)
 - Day 079
 	- :green_circle: [](solutions/157.md)
 	- :yellow_circle: [](solutions/158.md)
@@ -295,6 +298,9 @@ This page repository is used to track solutions published in the [Telegram chann
 
 ### Week 13
 
+- Day 078
+	- :green_circle: [](solutions/155.md)
+	- :yellow_circle: [](solutions/156.md)
 - Day 086
 	- :green_circle: [](solutions/171.md)
 	- :yellow_circle: [](solutions/172.md)
@@ -313,12 +319,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 091
 	- :green_circle: [](solutions/181.md)
 	- :yellow_circle: [](solutions/182.md)
-- Day 092
-	- :green_circle: [](solutions/183.md)
-	- :yellow_circle: [](solutions/184.md)
 
 ### Week 14
 
+- Day 092
+	- :green_circle: [](solutions/183.md)
+	- :yellow_circle: [](solutions/184.md)
 - Day 093
 	- :green_circle: [](solutions/185.md)
 	- :yellow_circle: [](solutions/186.md)
@@ -338,12 +344,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 098
 	- :green_circle: [](solutions/195.md)
 	- :yellow_circle: [](solutions/196.md)
-- Day 099
-	- :green_circle: [](solutions/197.md)
-	- :yellow_circle: [](solutions/198.md)
 
 ### Week 15
 
+- Day 099
+	- :green_circle: [](solutions/197.md)
+	- :yellow_circle: [](solutions/198.md)
 - Day 100
 	- :green_circle: [](solutions/199.md)
 	- :yellow_circle: [](solutions/200.md)
@@ -362,12 +368,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 105
 	- :green_circle: [](solutions/209.md)
 	- :yellow_circle: [](solutions/210.md)
-- Day 106
-	- :green_circle: [](solutions/211.md)
-	- :yellow_circle: [](solutions/212.md)
 
 ### Week 16
 
+- Day 106
+	- :green_circle: [](solutions/211.md)
+	- :yellow_circle: [](solutions/212.md)
 - Day 107
 	- :green_circle: [](solutions/213.md)
 	- :yellow_circle: [](solutions/214.md)
@@ -386,12 +392,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 112
 	- :green_circle: [](solutions/223.md)
 	- :yellow_circle: [](solutions/224.md)
-- Day 113
-	- :green_circle: [](solutions/225.md)
-	- :yellow_circle: [](solutions/226.md)
 
 ### Week 17
 
+- Day 113
+	- :green_circle: [](solutions/225.md)
+	- :yellow_circle: [](solutions/226.md)
 - Day 114
 	- :green_circle: [](solutions/227.md)
 	- :yellow_circle: [](solutions/228.md)
@@ -410,12 +416,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 119
 	- :green_circle: [](solutions/237.md)
 	- :yellow_circle: [](solutions/238.md)
-- Day 120
-	- :green_circle: [](solutions/239.md)
-	- :yellow_circle: [](solutions/240.md)
 
 ### Week 18
 
+- Day 120
+	- :green_circle: [](solutions/239.md)
+	- :yellow_circle: [](solutions/240.md)
 - Day 121
 	- :green_circle: [](solutions/241.md)
 	- :yellow_circle: [](solutions/242.md)
@@ -434,12 +440,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 126
 	- :green_circle: [](solutions/251.md)
 	- :yellow_circle: [](solutions/252.md)
-- Day 127
-	- :green_circle: [](solutions/253.md)
-	- :yellow_circle: [](solutions/254.md)
 
 ### Week 19
 
+- Day 127
+	- :green_circle: [](solutions/253.md)
+	- :yellow_circle: [](solutions/254.md)
 - Day 128
 	- :green_circle: [](solutions/255.md)
 	- :yellow_circle: [](solutions/256.md)
@@ -458,12 +464,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 133
 	- :green_circle: [](solutions/265.md)
 	- :yellow_circle: [](solutions/266.md)
-- Day 134
-	- :green_circle: [](solutions/267.md)
-	- :yellow_circle: [](solutions/268.md)
 
 ### Week 20
 
+- Day 134
+	- :green_circle: [](solutions/267.md)
+	- :yellow_circle: [](solutions/268.md)
 - Day 135
 	- :green_circle: [](solutions/269.md)
 	- :yellow_circle: [](solutions/270.md)
@@ -482,12 +488,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 140
 	- :green_circle: [](solutions/279.md)
 	- :yellow_circle: [](solutions/280.md)
-- Day 141
-	- :green_circle: [](solutions/281.md)
-	- :yellow_circle: [](solutions/282.md)
 
 ### Week 21
 
+- Day 141
+	- :green_circle: [](solutions/281.md)
+	- :yellow_circle: [](solutions/282.md)
 - Day 142
 	- :green_circle: [](solutions/283.md)
 	- :yellow_circle: [](solutions/284.md)
@@ -506,12 +512,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 147
 	- :green_circle: [](solutions/293.md)
 	- :yellow_circle: [](solutions/294.md)
-- Day 148
-	- :green_circle: [](solutions/295.md)
-	- :yellow_circle: [](solutions/296.md)
 
 ### Week 22
 
+- Day 148
+	- :green_circle: [](solutions/295.md)
+	- :yellow_circle: [](solutions/296.md)
 - Day 149
 	- :green_circle: [](solutions/297.md)
 	- :yellow_circle: [](solutions/298.md)
@@ -530,12 +536,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 154
 	- :green_circle: [](solutions/307.md)
 	- :yellow_circle: [](solutions/308.md)
-- Day 155
-	- :green_circle: [](solutions/309.md)
-	- :yellow_circle: [](solutions/310.md)
 
 ### Week 23
 
+- Day 155
+	- :green_circle: [](solutions/309.md)
+	- :yellow_circle: [](solutions/310.md)
 - Day 156
 	- :green_circle: [](solutions/311.md)
 	- :yellow_circle: [](solutions/312.md)
@@ -554,12 +560,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 161
 	- :green_circle: [](solutions/321.md)
 	- :yellow_circle: [](solutions/322.md)
-- Day 162
-	- :green_circle: [](solutions/323.md)
-	- :yellow_circle: [](solutions/324.md)
 
 ### Week 24
 
+- Day 162
+	- :green_circle: [](solutions/323.md)
+	- :yellow_circle: [](solutions/324.md)
 - Day 163
 	- :green_circle: [](solutions/325.md)
 	- :yellow_circle: [](solutions/326.md)
@@ -578,12 +584,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 168
 	- :green_circle: [](solutions/335.md)
 	- :yellow_circle: [](solutions/336.md)
-- Day 169
-	- :green_circle: [](solutions/337.md)
-	- :yellow_circle: [](solutions/338.md)
 
 ### Week 25
 
+- Day 169
+	- :green_circle: [](solutions/337.md)
+	- :yellow_circle: [](solutions/338.md)
 - Day 170
 	- :green_circle: [](solutions/339.md)
 	- :yellow_circle: [](solutions/340.md)
@@ -602,12 +608,12 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 175
 	- :green_circle: [](solutions/349.md)
 	- :yellow_circle: [](solutions/350.md)
-- Day 176
-	- :green_circle: [](solutions/351.md)
-	- :yellow_circle: [](solutions/352.md)
 
 ### Week 26
 
+- Day 176
+	- :green_circle: [](solutions/351.md)
+	- :yellow_circle: [](solutions/352.md)
 - Day 177
 	- :green_circle: [](solutions/353.md)
 	- :yellow_circle: [](solutions/354.md)
@@ -626,7 +632,4 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 182
 	- :green_circle: [](solutions/363.md)
 	- :yellow_circle: [](solutions/364.md)
-- Day 183
-	- :green_circle: [](solutions/365.md)
-	- :yellow_circle: [](solutions/366.md)
 -->
