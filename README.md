@@ -323,8 +323,8 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :green_circle: [](solutions/185.md)
 	- :yellow_circle: [](solutions/186.md)
 - Day 094
-	- :green_circle: [](solutions/187.md)
-	- :yellow_circle: [](solutions/188.md)
+	- :green_circle: [2373. Largest Local Values in a Matrix](solutions/187.md)
+	- :yellow_circle: [1817. Finding the Users Active Minutes](solutions/188.md)
 - Day 095
 	- :green_circle: [804. Unique Morse Code Words](solutions/189.md)
 	- :yellow_circle: [2079. Watering Plants](solutions/190.md)
