@@ -328,10 +328,10 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 095
 	- :green_circle: [804. Unique Morse Code Words](solutions/189.md)
 	- :yellow_circle: [2079. Watering Plants](solutions/190.md)
-<!--
 - Day 096
-	- :green_circle: [](solutions/191.md)
-	- :yellow_circle: [](solutions/192.md)
+	- :green_circle: [1732. Find the Highest Altitude](solutions/191.md)
+	- :yellow_circle: [1561. Maximum Number of Coins You Can Get](solutions/192.md)
+<!--
 - Day 097
 	- :green_circle: [](solutions/193.md)
 	- :yellow_circle: [](solutions/194.md)
