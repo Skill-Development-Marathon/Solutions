@@ -327,7 +327,7 @@ This page repository is used to track solutions published in the [Telegram chann
 	- :yellow_circle: [](solutions/184.md)
 - Day 093
 	- :green_circle: [](solutions/185.md)
-	- :yellow_circle: [](solutions/186.md)
+	- :yellow_circle: [1630. Arithmetic Subarrays](solutions/186.md)
 - Day 094
 	- :green_circle: [2373. Largest Local Values in a Matrix](solutions/187.md)
 	- :yellow_circle: [1817. Finding the Users Active Minutes](solutions/188.md)
