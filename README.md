@@ -340,10 +340,10 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 097
 	- :green_circle: [1913. Maximum Product Difference Between Two Pairs](solutions/193.md)
 	- :yellow_circle: [1605. Find Valid Matrix Given Row and Column Sums](solutions/194.md)
-<!--
 - Day 098
-	- :green_circle: [](solutions/195.md)
-	- :yellow_circle: [](solutions/196.md)
+	- :green_circle: [2744. Find Maximum Number of String Pairs](solutions/195.md)
+	- :yellow_circle: [46. Permutations](solutions/196.md)
+<!--
 
 ### Week 15
 
