@@ -348,7 +348,7 @@ This page repository is used to track solutions published in the [Telegram chann
 
 - Day 099
 	- :green_circle: [1266. Minimum Time Visiting All Points](solutions/197.md)
-	- :yellow_circle: [](solutions/198.md)
+	- :yellow_circle: [890. Find and Replace Pattern](solutions/198.md)
 <!--
 - Day 100
 	- :green_circle: [](solutions/199.md)
