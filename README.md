@@ -343,13 +343,13 @@ This page repository is used to track solutions published in the [Telegram chann
 - Day 098
 	- :green_circle: [2744. Find Maximum Number of String Pairs](solutions/195.md)
 	- :yellow_circle: [46. Permutations](solutions/196.md)
-<!--
 
 ### Week 15
 
 - Day 099
-	- :green_circle: [](solutions/197.md)
+	- :green_circle: [1266. Minimum Time Visiting All Points](solutions/197.md)
 	- :yellow_circle: [](solutions/198.md)
+<!--
 - Day 100
 	- :green_circle: [](solutions/199.md)
 	- :yellow_circle: [](solutions/200.md)
